@@ -1,0 +1,124 @@
+# Copyright (C) 2026 Tom Evers
+# This file is distributed under the same license as the BSseo package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BSseo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/eversthomas/BSseo\n"
+"POT-Creation-Date: 2026-02-16 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: bsseo\n"
+
+#: admin/help-texts.php
+msgid "Titel in Suchmaschinen"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Kurzbeschreibung für Google"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Hauptsuchbegriff"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Nicht in Google anzeigen"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Links nicht bewerten"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Offizielle Adresse dieser Seite"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Vorschaubild in Sozialen Medien"
+msgstr ""
+
+#: admin/help-texts.php
+msgid "Quellenangaben"
+msgstr ""
+
+#: admin/metabox.php
+msgid "BSseo"
+msgstr ""
+
+#: admin/metabox.php
+msgid "Jetzt analysieren"
+msgstr ""
+
+#: admin/metabox.php
+msgid "Zeichen"
+msgstr ""
+
+#: admin/metabox.php
+msgid "— Automatisch —"
+msgstr ""
+
+#: admin/metabox.php
+msgid "Bild wählen"
+msgstr ""
+
+#: admin/metabox.php
+msgid "Entfernen"
+msgstr ""
+
+#: admin/settings-page.php
+msgid "Ausgabe steuern"
+msgstr ""
+
+#: admin/settings-page.php
+msgid "Aktiviere oder deaktiviere die jeweiligen Ausgaben im Frontend."
+msgstr ""
+
+#: admin/list-columns.php
+msgid "SEO / KI"
+msgstr ""
+
+#: admin/dashboard-widget.php
+msgid "BSseo – SEO & KI-Scores"
+msgstr ""
+
+#: admin/dashboard-widget.php
+msgid "Noch keine Beiträge analysiert. Nutze in der Beitrags- oder Seitenbearbeitung den Button „Jetzt analysieren“."
+msgstr ""
+
+#: admin/dashboard-widget.php
+msgid "Durchschnitt (veröffentlichte Beiträge/Seiten)"
+msgstr ""
+
+#: admin/dashboard-widget.php
+msgid "SEO-Score:"
+msgstr ""
+
+#: admin/dashboard-widget.php
+msgid "KI-Score:"
+msgstr ""
+
+#: core/content-analyzer.php
+msgid "Berechtigung fehlt."
+msgstr ""
+
+#: core/content-analyzer.php
+msgid "Content-Analyse ist deaktiviert."
+msgstr ""
+
+#: core/content-analyzer.php
+msgid "Analyse läuft bereits."
+msgstr ""
+
+#: core/content-analyzer.php
+msgid "Beitrag nicht gefunden oder nicht analysierbar."
+msgstr ""
+
+#: core/content-analyzer.php
+msgid "Zeitüberschreitung beim Rendern."
+msgstr ""
